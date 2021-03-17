@@ -1,0 +1,28 @@
+@charset "utf-8";
+body { 
+	background-image: url("../images/background2.jpg")
+}
+h1 {
+    color:white;
+	font-family: 'Questrial';
+    font-style: oblique;
+    font-size: xx-large;
+    font-weight: 500px;
+    text-align: center;
+}
+	
+p1 {
+	color:blue;
+	font-family: 'Questrial' ;
+	font-size: 25px;
+}
+
+h2 {
+	background-color: antiquewhite;
+	text-align: center;
+	font-family: 'Questrial';
+	color: #5F0D7E;
+	text-style: bold;
+	
+}
+
